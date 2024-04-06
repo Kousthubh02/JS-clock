@@ -6,7 +6,5 @@ It consists of the following features:
 
 --- Timer 
 
---- Analog CLock
-
 
 The site is deployed at [Klock](https://kousthubh02.github.io/Klock/)
